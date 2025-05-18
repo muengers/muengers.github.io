@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meine neue Webseite</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Meine neue Webseite</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 May 2025 16:39:22 +0200</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mein erster Post</title>
+      <link>https://example.org/post/2025/05/01_erster_post/</link>
+      <pubDate>Sun, 18 May 2025 16:39:22 +0200</pubDate>
+      <guid>https://example.org/post/2025/05/01_erster_post/</guid>
+      <description>&lt;h1 id=&#34;meine-überschrift&#34;&gt;Meine Überschrift&lt;/h1&gt;&#xA;&lt;h2 id=&#34;subtitle&#34;&gt;Subtitle&lt;/h2&gt;&#xA;&lt;h3 id=&#34;sub-subtitle&#34;&gt;Sub Subtitle&lt;/h3&gt;&#xA;&lt;p&gt;Hier kommt mein Text.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;Punkt 1&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Punkt 2&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;Punkt 3&lt;/li&gt;&#xA;&lt;li&gt;Punkt 4&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Punkt 1&lt;/li&gt;&#xA;&lt;li&gt;Punkt 2&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Link zu meinem &lt;a href=&#34;http://artikel.de&#34;&gt;Artikel&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Sein oder nicht sein&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;pre&gt;&lt;code&gt;Mehrere sein&#xA;oder nicht sein&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+  </channel>
+</rss>
